@@ -65,7 +65,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Parking Lot</h1>
+      <h1>HighTech Parking Lot</h1>
 
       <section className="card">
         <h2>Add Booking</h2>
